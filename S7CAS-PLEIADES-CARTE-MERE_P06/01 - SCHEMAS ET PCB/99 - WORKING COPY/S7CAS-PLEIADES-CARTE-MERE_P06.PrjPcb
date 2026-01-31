@@ -101,7 +101,7 @@ GenerateClassCluster=0
 DocumentUniqueId=YZWMLBAG
 
 [Document4]
-DocumentPath=S7CAS-PLEIADES-CARTE-MERE_P06_POWER.SCHDOC
+DocumentPath=S7CAS-PLEIADES-CARTE-MERE_P06_POWER1.SCHDOC
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -118,6 +118,23 @@ GenerateClassCluster=0
 DocumentUniqueId=YZWMLBAI
 
 [Document5]
+DocumentPath=S7CAS-PLEIADES-CARTE-MERE_P06_POWER2.SCHDOC
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=YZWMLBAJ
+
+[Document6]
 DocumentPath=S7CAS-PLEIADES-CARTE-MERE_P06_FPGA1.SCHDOC
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -134,7 +151,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YZWMLBAK
 
-[Document6]
+[Document7]
 DocumentPath=S7CAS-PLEIADES-CARTE-MERE_P06_FPGA2.SCHDOC
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -151,7 +168,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YZWMLBAL
 
-[Document7]
+[Document8]
 DocumentPath=S7CAS-PLEIADES-CARTE-MERE_P06_FPGA3.SCHDOC
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -168,7 +185,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YZWMLBAM
 
-[Document8]
+[Document9]
 DocumentPath=S7CAS-PLEIADES-CARTE-MERE_P06_FPGA4.SCHDOC
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -184,23 +201,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YZWMLBAN
-
-[Document9]
-DocumentPath=S7CAS-PLEIADES-CARTE-MERE_P06_FPGA5.SCHDOC
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=YZWMLBAO
 
 [Document10]
 DocumentPath=S7CAS-PLEIADES-CARTE-MERE_P06_CLOCK.SchDoc
