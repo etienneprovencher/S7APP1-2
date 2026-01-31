@@ -203,23 +203,6 @@ GenerateClassCluster=0
 DocumentUniqueId=YZWMLBAN
 
 [Document10]
-DocumentPath=S7CAS-PLEIADES-CARTE-MERE_P06_FPGA5.SCHDOC
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=YZWMLBAO
-
-[Document11]
 DocumentPath=S7CAS-PLEIADES-CARTE-MERE_P06_CLOCK.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -236,7 +219,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YZWMLBAQ
 
-[Document12]
+[Document11]
 DocumentPath=S7CAS-PLEIADES-CARTE-MERE_P06_ETHERNET.SCHDOC
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -253,7 +236,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YZWMLBAR
 
-[Document13]
+[Document12]
 DocumentPath=S7CAS-PLEIADES-CARTE-MERE_P06_DDR3.SCHDOC
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -270,7 +253,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YZWMLBAS
 
-[Document14]
+[Document13]
 DocumentPath=S7CAS-PLEIADES-CARTE-MERE_P06_MISC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -287,7 +270,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YZWMLBAT
 
-[Document15]
+[Document14]
 DocumentPath=S7CAS-PLEIADES-CARTE-MERE_P06_MOTOR.SCHDOC
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -304,7 +287,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YZWMLBAV
 
-[Document16]
+[Document15]
 DocumentPath=S7CAS-PLEIADES-CARTE-MERE_P06_FLASH.SCHDOC
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -321,7 +304,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YZWMLBAU
 
-[Document17]
+[Document16]
 DocumentPath=S7CAS-PLEIADES-CARTE-MERE_P06_ADC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -338,7 +321,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YZWMLBAH
 
-[Document18]
+[Document17]
 DocumentPath=S7CAS-PLEIADES-CARTE-MERE_P06_DAC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -355,7 +338,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YZWMLBAY
 
-[Document19]
+[Document18]
 DocumentPath=S7CAS-PLEIADES-CARTE-MERE_P06_USB_PROGRAMER.SCHDOC
 AnnotationEnabled=1
 AnnotateStartValue=1
