@@ -355,49 +355,66 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YZWMLBAX
 
+[Document19]
+DocumentPath=S7CAS-PLEIADES-CARTE-MERE_P06.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=GNYTCPOA
+
 [Parameter1]
-Name=Project_Stencil_Top_Thickness
-Value=6-7 MacroMilsliliter
+Name=Project_Date
+Value=2026-01-21
 
 [Parameter2]
-Name=Project_Stencil_Bot_Thickness
-Value=3 Milliwhatever
+Name=Project_Designer1
+Value=Étienne Provencher
 
 [Parameter3]
-Name=Project_Revision
-Value=1.00
+Name=Project_Designer2
+Value=Antoine Allard
 
 [Parameter4]
-Name=Project_Name
-Value=S7CAS-PLEIDES-CARTE-MERE_P06
+Name=Project_Designer3
+Value=
 
 [Parameter5]
-Name=Project_Group
-Value=P-06
+Name=Project_Designer4
+Value=
 
 [Parameter6]
 Name=Project_Global
 Value=S7APP1-2
 
 [Parameter7]
-Name=Project_Designer4
-Value= 
+Name=Project_Group
+Value=P-06
 
 [Parameter8]
-Name=Project_Designer3
-Value= 
+Name=Project_Name
+Value=S7CAS-PLEIDES-CARTE-MERE_P06
 
 [Parameter9]
-Name=Project_Designer2
-Value=Antoine Allard
+Name=Project_Revision
+Value=1.00
 
 [Parameter10]
-Name=Project_Designer1
-Value=Étienne Provencher
+Name=Project_Stencil_Bot_Thickness
+Value=3 Milliwhatever
 
 [Parameter11]
-Name=Project_Date
-Value=2026-01-21
+Name=Project_Stencil_Top_Thickness
+Value=6-7 MacroMilsliliter
 
 [Configuration1]
 Name=Sources
