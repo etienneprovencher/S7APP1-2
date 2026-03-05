@@ -1,0 +1,218 @@
+Removed Pin From Net: NetName=3V3 Pin=Y2-4
+Removed Member From Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_FPGA1 Member=C45
+Removed Member From Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_FPGA1 Member=C48
+Removed Member From Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_POWER2 Member=C51
+Removed Member From Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_POWER2 Member=C52
+Removed Member From Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_ETHERNET Member=C120
+Removed Member From Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_ETHERNET Member=C122
+Removed Member From Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_ETHERNET Member=C123
+Removed Member From Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_ETHERNET Member=C124
+Removed Member From Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_ETHERNET Member=C125
+Removed Member From Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_ETHERNET Member=C126
+Removed Member From Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_DAC Member=C156
+Removed Member From Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_ADC Member=C157
+Removed Member From Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_DAC Member=C157
+Removed Member From Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_DAC Member=C159
+Removed Member From Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_ADC Member=C160
+Removed Member From Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_DAC Member=C160
+Removed Member From Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_ADC Member=C163
+Removed Member From Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_DAC Member=C163
+Removed Member From Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_USB_PROGRAMER Member=C163
+Removed Member From Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_USB_PROGRAMER Member=C166
+Removed Member From Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_DAC Member=C169
+Removed Member From Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_USB_PROGRAMER Member=C169
+Removed Member From Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_ADC Member=C170
+Removed Member From Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_DAC Member=C170
+Removed Member From Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_USB_PROGRAMER Member=C170
+Removed Member From Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_DAC Member=C173
+Removed Member From Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_DDR3 Member=C173
+Removed Member From Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_DDR3 Member=C182
+Removed Member From Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_USB_PROGRAMER Member=C182
+Removed Member From Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_MISC Member=C187
+Removed Member From Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_DAC Member=C192
+Removed Member From Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_DDR3 Member=C192
+Removed Member From Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_MOTOR Member=C192
+Removed Member From Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_MOTOR Member=C195
+Removed Member From Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_MOTOR Member=C198
+Removed Member From Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_DDR3 Member=C205
+Removed Member From Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_USB_PROGRAMER Member=C205
+Removed Member From Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_MISC Member=C208
+Removed Member From Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_ADC Member=C221
+Removed Member From Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_DDR3 Member=C221
+Removed Member From Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_ADC Member=C224
+Removed Member From Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_DDR3 Member=C224
+Removed Member From Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_ADC Member=C231
+Removed Member From Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_DDR3 Member=C231
+Removed Member From Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_MOTOR Member=C231
+Removed Member From Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_ADC Member=C234
+Removed Member From Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_DDR3 Member=C234
+Removed Member From Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_MOTOR Member=C234
+Removed Member From Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_ADC Member=C237
+Removed Member From Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_ADC Member=C243
+Removed Member From Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_ADC Member=C246
+Removed Member From Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_ADC Member=C247
+Removed Member From Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_ADC Member=C250
+Removed Member From Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_ADC Member=C253
+Removed Member From Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_DAC Member=C253
+Removed Member From Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_ADC Member=C256
+Removed Member From Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_DAC Member=C256
+Removed Member From Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_ADC Member=C259
+Removed Member From Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_DAC Member=C259
+Removed Member From Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_MOTOR Member=C259
+Removed Member From Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_ADC Member=C260
+Removed Member From Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_DAC Member=C260
+Removed Member From Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_FLASH Member=C260
+Removed Member From Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_DAC Member=L7
+Removed Member From Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_ETHERNET Member=R33
+Removed Member From Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_ADC Member=R87
+Removed Member From Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_DAC Member=R98
+Removed Member From Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_DAC Member=R105
+Removed Member From Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_USB_PROGRAMER Member=R122
+Removed Member From Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_CLOCK Member=U13
+Added Pin To Net: NetName=3V3D Pin=Y2-4
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_POWER2 Member=Component C46 CAP - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_POWER2 Member=Component C47 CAP - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_FPGA1 Member=Component C49 CAP - 1210
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_FPGA1 Member=Component C50 CAP - 0805
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_FPGA1 Member=Component C53 CAP - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_FPGA1 Member=Component C55 CAP - 0805
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_FPGA1 Member=Component C56 CAP - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_FPGA1 Member=Component C57 CAP - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_FPGA1 Member=Component C58 CAP - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_CLOCK Member=Component C105 CAP - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_CLOCK Member=Component C107 CAP - 0805
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_CLOCK Member=Component C109 CAP - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_CLOCK Member=Component C111 CAP - 0805
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_CLOCK Member=Component C113 CAP - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_CLOCK Member=Component C116 CAP - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_CLOCK Member=Component C117 CAP - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_CLOCK Member=Component C121 CAP - 0805
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_ETHERNET Member=Component C129 CAP - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_ETHERNET Member=Component C130 CAP - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_ETHERNET Member=Component C131 CAP - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_ETHERNET Member=Component C132 CAP - 0603
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_ETHERNET Member=Component C133 CAP - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_ETHERNET Member=Component C134 CAP - 0805
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_ETHERNET Member=Component C135 CAP - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_ETHERNET Member=Component C136 CAP - 0805
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_DDR3 Member=Component C140 CAP - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_DDR3 Member=Component C143 CAP - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_DDR3 Member=Component C146 CAP - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_DDR3 Member=Component C149 CAP - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_DDR3 Member=Component C151 CAP - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_DDR3 Member=Component C152 CAP - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_DDR3 Member=Component C153 CAP - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_DDR3 Member=Component C154 CAP - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_DDR3 Member=Component C161 CAP - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_DDR3 Member=Component C162 CAP - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_DDR3 Member=Component C164 CAP - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_DDR3 Member=Component C165 CAP - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_MISC Member=Component C167 CAP - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_MISC Member=Component C168 CAP - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_MOTOR Member=Component C171 CAP - 0805
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_MOTOR Member=Component C172 CAP - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_MOTOR Member=Component C174 CAP - 0805
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_MOTOR Member=Component C175 CAP - 0805
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_MOTOR Member=Component C178 CAP - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_MOTOR Member=Component C179 MAL215099101E3
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_FLASH Member=Component C180 CAP - 0603
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_ADC Member=Component C181 CAP - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_ADC Member=Component C183 CAP - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_ADC Member=Component C184 CAP - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_ADC Member=Component C185 CAP - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_ADC Member=Component C186 CAP - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_ADC Member=Component C188 CAP - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_ADC Member=Component C189 CAP - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_ADC Member=Component C190 CAP - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_ADC Member=Component C191 CAP - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_ADC Member=Component C193 CAP - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_ADC Member=Component C194 CAP - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_ADC Member=Component C196 CAP - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_ADC Member=Component C197 CAP - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_ADC Member=Component C199 CAP - 0805
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_ADC Member=Component C200 CAP - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_ADC Member=Component C201 CAP - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_ADC Member=Component C202 CAP - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_ADC Member=Component C203 CAP - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_ADC Member=Component C204 CAP - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_ADC Member=Component C206 CAP - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_ADC Member=Component C207 CAP - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_ADC Member=Component C209 CAP - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_ADC Member=Component C210 CAP - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_ADC Member=Component C211 CAP - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_ADC Member=Component C212 CAP - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_ADC Member=Component C213 CAP - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_ADC Member=Component C214 CAP - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_ADC Member=Component C215 CAP - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_ADC Member=Component C216 CAP - 0805
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_DAC Member=Component C217 CAP - 0603
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_DAC Member=Component C218 CAP - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_DAC Member=Component C219 CAP - 0603
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_DAC Member=Component C220 CAP - 0603
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_DAC Member=Component C222 CAP - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_DAC Member=Component C223 CAP - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_DAC Member=Component C225 CAP - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_DAC Member=Component C226 CAP - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_DAC Member=Component C227 CAP - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_DAC Member=Component C228 CAP - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_DAC Member=Component C229 CAP - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_DAC Member=Component C230 CAP - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_DAC Member=Component C232 CAP - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_DAC Member=Component C233 CAP - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_DAC Member=Component C235 CAP - 0805
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_DAC Member=Component C236 CAP - 0805
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_DAC Member=Component C239 CAP - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_DAC Member=Component C240 CAP - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_DAC Member=Component C241 CAP - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_DAC Member=Component C242 CAP - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_DAC Member=Component C244 CAP - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_DAC Member=Component C245 CAP - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_DAC Member=Component C248 CAP - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_DAC Member=Component C249 CAP - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_DAC Member=Component C251 CAP - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_DAC Member=Component C252 CAP - 0805
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_USB_PROGRAMER Member=Component C254 CAP - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_USB_PROGRAMER Member=Component C255 CAP - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_USB_PROGRAMER Member=Component C257 CAP - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_USB_PROGRAMER Member=Component C258 CAP - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_USB_PROGRAMER Member=Component C261 CAP - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_USB_PROGRAMER Member=Component C262 CAP - 0402
+Add Class Member: Failed to add class member : Component H1 335314B00000G
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_DAC Member=Component L11 LQW15AN5N1C1ZD
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_ETHERNET Member=Component R34 RES - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_ETHERNET Member=Component R36 RES - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_ETHERNET Member=Component R37 RES - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_ETHERNET Member=Component R38 RES - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_ETHERNET Member=Component R40 RES - 0805
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_MOTOR Member=Component R81 RES - 0603
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_MOTOR Member=Component R82 RES - 0603
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_MOTOR Member=Component R83 RES - 0603
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_MOTOR Member=Component R84 RES - 0603
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_MOTOR Member=Component R85 RES - 1210
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_FLASH Member=Component R90 RES - 0603
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_FLASH Member=Component R91 RES - 0603
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_ADC Member=Component R93 RES - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_ADC Member=Component R95 RES - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_ADC Member=Component R97 RES - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_ADC Member=Component R100 RES - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_ADC Member=Component R101 RES - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_ADC Member=Component R102 RES - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_ADC Member=Component R104 RES - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_ADC Member=Component R106 RES - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_DAC Member=Component R107 RES - 0603
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_DAC Member=Component R108 RES - 0603
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_DAC Member=Component R111 RES - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_DAC Member=Component R113 RES - 0603
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_DAC Member=Component R115 RES - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_DAC Member=Component R116 RES - 0603
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_DAC Member=Component R117 RES - 0603
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_DAC Member=Component R118 RES - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_DAC Member=Component R120 RES - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_DAC Member=Component R123 RES - 0603
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_DAC Member=Component R124 RES - 0603
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_USB_PROGRAMER Member=Component R125 RES - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_USB_PROGRAMER Member=Component R129 RES - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_USB_PROGRAMER Member=Component R130 RES - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_USB_PROGRAMER Member=Component R131 RES - 1210
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_CLOCK Member=Component U14 CDCE62005RGZT
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_MISC Member=Component U18 TC74A1-3.3VCTTR
