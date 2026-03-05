@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=3V3 Pin=C237-2
+Removed Pin From Net: NetName=3V3 Pin=C238-2
+Removed Pin From Net: NetName=3V3 Pin=C239-2
+Removed Pin From Net: NetName=3V3 Pin=C240-2
+Removed Pin From Net: NetName=3V3 Pin=C241-2
+Removed Pin From Net: NetName=3V3 Pin=C242-2
+Add component: Footprint Not Found RES_0402
+Added Pin To Net: NetName=3V3D Pin=C237-2
+Added Pin To Net: NetName=3V3D Pin=C238-2
+Added Pin To Net: NetName=3V3D Pin=C239-2
+Added Pin To Net: NetName=3V3D Pin=C240-2
+Added Pin To Net: NetName=3V3D Pin=C241-2
+Added Pin To Net: NetName=3V3D Pin=C242-2
+Add Pin To Net: Unknown Pin: Pin R27-1
+Add Pin To Net: Unknown Pin: Pin R27-2
+Add Class Member: Failed to add class member : Component H1 335314B00000G
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_POWER2 Member=Component R24 RES - 0603
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_POWER2 Member=Component R26 RES - 0603
+Add Class Member: Failed to add class member : Component R27 RMCF0402FT10R0
