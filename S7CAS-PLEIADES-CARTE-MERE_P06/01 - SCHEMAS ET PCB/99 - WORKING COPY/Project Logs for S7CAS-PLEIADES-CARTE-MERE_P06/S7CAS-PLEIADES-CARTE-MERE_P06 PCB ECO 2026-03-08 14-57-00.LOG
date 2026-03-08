@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=1V2D Pin=C132-2
+Removed Pin From Net: NetName=1V2D Pin=C133-2
+Removed Pin From Net: NetName=1V2D Pin=U15-2
+Added Pin To Net: NetName=1V2 Pin=C132-2
+Added Pin To Net: NetName=1V2 Pin=C133-2
+Added Pin To Net: NetName=1V2 Pin=U15-2
+Add Class Member: Failed to add class member : Component H1 335314B00000G
