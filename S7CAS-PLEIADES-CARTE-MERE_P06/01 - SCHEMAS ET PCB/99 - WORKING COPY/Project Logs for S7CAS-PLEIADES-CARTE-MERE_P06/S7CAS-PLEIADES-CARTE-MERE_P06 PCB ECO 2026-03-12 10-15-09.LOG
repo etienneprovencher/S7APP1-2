@@ -1,0 +1,13 @@
+Change Net Name : Old Net Name=NetJ2_1 New Net Name=TX_P
+Change Net Name : Old Net Name=NetJ2_2 New Net Name=TX_N
+Change Net Name : Old Net Name=NetJ2_3 New Net Name=RX_P
+Change Net Name : Old Net Name=NetJ2_6 New Net Name=RX_N
+Change Net Name : Old Net Name=NetT1_1 New Net Name=TD_P
+Change Net Name : Old Net Name=NetT1_3 New Net Name=TD_N
+Change Net Name : Old Net Name=NetT1_6 New Net Name=RD_P
+Change Net Name : Old Net Name=NetT1_8 New Net Name=RD_N
+Added Differential Pair: Name=RD
+Added Differential Pair: Name=RX
+Added Differential Pair: Name=TD
+Added Differential Pair: Name=TX
+Add Class Member: Failed to add class member : Component H1 335314B00000G

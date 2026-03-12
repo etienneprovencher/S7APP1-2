@@ -1,0 +1,12 @@
+Added Component: Designator=HS1(WAVE-35-21)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/WAVE-35-21/Wakefield/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "WAKEFIELD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "WAVE-35-21"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/WAVE-35-21/Wakefield/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=HS1-P$1
+Added Pin To Net: NetName=GND Pin=HS1-P$2
+Added Pin To Net: NetName=GND Pin=HS1-P$3
+Added Pin To Net: NetName=GND Pin=HS1-P$4
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_FPGA4 Member=Component HS1 WAVE-35-21
