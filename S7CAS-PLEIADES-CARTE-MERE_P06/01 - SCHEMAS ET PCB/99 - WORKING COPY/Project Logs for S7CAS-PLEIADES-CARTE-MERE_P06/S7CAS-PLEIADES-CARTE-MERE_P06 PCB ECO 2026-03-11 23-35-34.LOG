@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=3V3D Pin=C90-1
+Removed Pin From Net: NetName=GND Pin=C90-2
+Removed Pin From Net: NetName=3V3D Pin=C91-1
+Removed Pin From Net: NetName=GND Pin=C91-2
+Added Component: Designator=HS?(WAVE-35-21)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/WAVE-35-21/Wakefield/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "WAKEFIELD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "WAVE-35-21"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/WAVE-35-21/Wakefield/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C90-1
+Added Pin To Net: NetName=3V3D Pin=C90-2
+Added Pin To Net: NetName=GND Pin=C91-1
+Added Pin To Net: NetName=3V3D Pin=C91-2
+Added Pin To Net: NetName=GND Pin=HS?-P$1
+Added Pin To Net: NetName=GND Pin=HS?-P$2
+Added Pin To Net: NetName=GND Pin=HS?-P$3
+Added Pin To Net: NetName=GND Pin=HS?-P$4
+Added Pin To Net: NetName=3V3D Pin=L13-2
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_FPGA3 Member=Component C76 CAP - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_FPGA4 Member=Component C89 CAP - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_FPGA4 Member=Component C90 CAP - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_FPGA4 Member=Component C91 CAP - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_FPGA4 Member=Component HS? WAVE-35-21
