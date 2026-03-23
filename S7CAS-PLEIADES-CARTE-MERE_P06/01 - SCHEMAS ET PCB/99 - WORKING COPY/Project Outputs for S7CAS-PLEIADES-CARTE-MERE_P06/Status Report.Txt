@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [S7CAS-PLEIADES-CARTE-MERE_P06.PrjPcb]
+   Generated File[S7CAS-PLEIADES-CARTE-MERE_P06-Plated.TXT]
+   Generated File[S7CAS-PLEIADES-CARTE-MERE_P06-NonPlated.TXT]
+   Generated File[S7CAS-PLEIADES-CARTE-MERE_P06.LDP]
+   Generated File[S7CAS-PLEIADES-CARTE-MERE_P06.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 16:06:08 On 2026-03-12

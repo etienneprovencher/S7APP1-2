@@ -1,0 +1,226 @@
+Added Pin To Net: NetName=GND Pin=C138-1
+Added Pin To Net: NetName=1V5D Pin=C138-2
+Added Pin To Net: NetName=GND Pin=C139-1
+Added Pin To Net: NetName=1V5D Pin=C139-2
+Added Pin To Net: NetName=GND Pin=C140-1
+Added Pin To Net: NetName=1V5D Pin=C140-2
+Added Pin To Net: NetName=GND Pin=C141-1
+Added Pin To Net: NetName=1V5D Pin=C141-2
+Added Pin To Net: NetName=GND Pin=C142-1
+Added Pin To Net: NetName=1V5D Pin=C142-2
+Added Pin To Net: NetName=GND Pin=C143-1
+Added Pin To Net: NetName=1V5D Pin=C143-2
+Added Pin To Net: NetName=GND Pin=C144-1
+Added Pin To Net: NetName=1V5D Pin=C144-2
+Added Pin To Net: NetName=GND Pin=C145-1
+Added Pin To Net: NetName=1V5D Pin=C145-2
+Added Pin To Net: NetName=GND Pin=C146-1
+Added Pin To Net: NetName=1V5D Pin=C146-2
+Added Pin To Net: NetName=GND Pin=C147-1
+Added Pin To Net: NetName=1V5D Pin=C147-2
+Added Pin To Net: NetName=GND Pin=C148-1
+Added Pin To Net: NetName=1V5D Pin=C148-2
+Added Pin To Net: NetName=GND Pin=C149-1
+Added Pin To Net: NetName=1V5D Pin=C149-2
+Added Pin To Net: NetName=GND Pin=C150-1
+Added Pin To Net: NetName=1V5D Pin=C150-2
+Added Pin To Net: NetName=GND Pin=C151-1
+Added Pin To Net: NetName=1V5D Pin=C151-2
+Added Pin To Net: NetName=GND Pin=C152-1
+Added Pin To Net: NetName=1V5D Pin=C152-2
+Added Pin To Net: NetName=GND Pin=C153-1
+Added Pin To Net: NetName=1V5D Pin=C153-2
+Added Pin To Net: NetName=GND Pin=C154-1
+Added Pin To Net: NetName=1V5D Pin=C154-2
+Added Pin To Net: NetName=GND Pin=C157-1
+Added Pin To Net: NetName=DDR3_VREF Pin=C157-2
+Added Pin To Net: NetName=GND Pin=C158-1
+Added Pin To Net: NetName=DDR3_VREF Pin=C158-2
+Added Pin To Net: NetName=GND Pin=R18-1
+Added Pin To Net: NetName=DDR3_RESET Pin=R18-2
+Added Pin To Net: NetName=DDR3_CLK0_N Pin=R20-1
+Added Pin To Net: NetName=DDR3_CLK0_P Pin=R20-2
+Added Pin To Net: NetName=GND Pin=R41-1
+Added Pin To Net: NetName=NetR41_2 Pin=R41-2
+Added Pin To Net: NetName=DDR3_A0 Pin=R42-1
+Added Pin To Net: NetName=DDRVTT Pin=R42-2
+Added Pin To Net: NetName=DDR3_A1 Pin=R43-1
+Added Pin To Net: NetName=DDRVTT Pin=R43-2
+Added Pin To Net: NetName=DDR3_A2 Pin=R44-1
+Added Pin To Net: NetName=DDRVTT Pin=R44-2
+Added Pin To Net: NetName=DDR3_A3 Pin=R45-1
+Added Pin To Net: NetName=DDRVTT Pin=R45-2
+Added Pin To Net: NetName=DDR3_A4 Pin=R46-1
+Added Pin To Net: NetName=DDRVTT Pin=R46-2
+Added Pin To Net: NetName=DDR3_A5 Pin=R47-1
+Added Pin To Net: NetName=DDRVTT Pin=R47-2
+Added Pin To Net: NetName=DDR3_A6 Pin=R48-1
+Added Pin To Net: NetName=DDRVTT Pin=R48-2
+Added Pin To Net: NetName=DDR3_A7 Pin=R49-1
+Added Pin To Net: NetName=DDRVTT Pin=R49-2
+Added Pin To Net: NetName=DDR3_A8 Pin=R50-1
+Added Pin To Net: NetName=DDRVTT Pin=R50-2
+Added Pin To Net: NetName=DDR3_A9 Pin=R51-1
+Added Pin To Net: NetName=DDRVTT Pin=R51-2
+Added Pin To Net: NetName=DDR3_A10 Pin=R52-1
+Added Pin To Net: NetName=DDRVTT Pin=R52-2
+Added Pin To Net: NetName=DDR3_A11 Pin=R53-1
+Added Pin To Net: NetName=DDRVTT Pin=R53-2
+Added Pin To Net: NetName=DDR3_A12 Pin=R54-1
+Added Pin To Net: NetName=DDRVTT Pin=R54-2
+Added Pin To Net: NetName=DDR3_A13 Pin=R55-1
+Added Pin To Net: NetName=DDRVTT Pin=R55-2
+Added Pin To Net: NetName=DDR3_BA0 Pin=R56-1
+Added Pin To Net: NetName=DDRVTT Pin=R56-2
+Added Pin To Net: NetName=DDR3_BA1 Pin=R57-1
+Added Pin To Net: NetName=DDRVTT Pin=R57-2
+Added Pin To Net: NetName=DDR3_BA2 Pin=R58-1
+Added Pin To Net: NetName=DDRVTT Pin=R58-2
+Added Pin To Net: NetName=DDR3_CKE0 Pin=R59-1
+Added Pin To Net: NetName=DDRVTT Pin=R59-2
+Added Pin To Net: NetName=DDR3_CS Pin=R60-1
+Added Pin To Net: NetName=DDRVTT Pin=R60-2
+Added Pin To Net: NetName=DDR3_RAS Pin=R61-1
+Added Pin To Net: NetName=DDRVTT Pin=R61-2
+Added Pin To Net: NetName=DDR3_CAS Pin=R62-1
+Added Pin To Net: NetName=DDRVTT Pin=R62-2
+Added Pin To Net: NetName=DDR3_WE Pin=R63-1
+Added Pin To Net: NetName=DDRVTT Pin=R63-2
+Added Pin To Net: NetName=DDR3_ODT Pin=R64-1
+Added Pin To Net: NetName=DDRVTT Pin=R64-2
+Added Pin To Net: NetName=1V5D Pin=U16-A1
+Added Pin To Net: NetName=DDR3_DQ13 Pin=U16-A2
+Added Pin To Net: NetName=DDR3_DQ15 Pin=U16-A3
+Added Pin To Net: NetName=DDR3_DQ12 Pin=U16-A7
+Added Pin To Net: NetName=1V5D Pin=U16-A8
+Added Pin To Net: NetName=GND Pin=U16-A9
+Added Pin To Net: NetName=GND Pin=U16-B1
+Added Pin To Net: NetName=1V5D Pin=U16-B2
+Added Pin To Net: NetName=GND Pin=U16-B3
+Added Pin To Net: NetName=DDR3_UDQS_N Pin=U16-B7
+Added Pin To Net: NetName=DDR3_DQ14 Pin=U16-B8
+Added Pin To Net: NetName=GND Pin=U16-B9
+Added Pin To Net: NetName=1V5D Pin=U16-C1
+Added Pin To Net: NetName=DDR3_DQ11 Pin=U16-C2
+Added Pin To Net: NetName=DDR3_DQ9 Pin=U16-C3
+Added Pin To Net: NetName=DDR3_UDQS_P Pin=U16-C7
+Added Pin To Net: NetName=DDR3_DQ10 Pin=U16-C8
+Added Pin To Net: NetName=1V5D Pin=U16-C9
+Added Pin To Net: NetName=GND Pin=U16-D1
+Added Pin To Net: NetName=1V5D Pin=U16-D2
+Added Pin To Net: NetName=DDR3_UDM Pin=U16-D3
+Added Pin To Net: NetName=DDR3_DQ8 Pin=U16-D7
+Added Pin To Net: NetName=GND Pin=U16-D8
+Added Pin To Net: NetName=1V5D Pin=U16-D9
+Added Pin To Net: NetName=GND Pin=U16-E1
+Added Pin To Net: NetName=GND Pin=U16-E2
+Added Pin To Net: NetName=DDR3_DQ0 Pin=U16-E3
+Added Pin To Net: NetName=DDR3_LDM Pin=U16-E7
+Added Pin To Net: NetName=GND Pin=U16-E8
+Added Pin To Net: NetName=1V5D Pin=U16-E9
+Added Pin To Net: NetName=1V5D Pin=U16-F1
+Added Pin To Net: NetName=DDR3_DQ2 Pin=U16-F2
+Added Pin To Net: NetName=DDR3_LDQS_P Pin=U16-F3
+Added Pin To Net: NetName=DDR3_DQ1 Pin=U16-F7
+Added Pin To Net: NetName=DDR3_DQ3 Pin=U16-F8
+Added Pin To Net: NetName=GND Pin=U16-F9
+Added Pin To Net: NetName=GND Pin=U16-G1
+Added Pin To Net: NetName=DDR3_DQ6 Pin=U16-G2
+Added Pin To Net: NetName=DDR3_LDQS_N Pin=U16-G3
+Added Pin To Net: NetName=1V5D Pin=U16-G7
+Added Pin To Net: NetName=GND Pin=U16-G8
+Added Pin To Net: NetName=GND Pin=U16-G9
+Added Pin To Net: NetName=DDR3_VREF Pin=U16-H1
+Added Pin To Net: NetName=1V5D Pin=U16-H2
+Added Pin To Net: NetName=DDR3_DQ4 Pin=U16-H3
+Added Pin To Net: NetName=DDR3_DQ7 Pin=U16-H7
+Added Pin To Net: NetName=DDR3_DQ5 Pin=U16-H8
+Added Pin To Net: NetName=1V5D Pin=U16-H9
+Added Pin To Net: NetName=GND Pin=U16-J2
+Added Pin To Net: NetName=DDR3_RAS Pin=U16-J3
+Added Pin To Net: NetName=DDR3_CLK0_P Pin=U16-J7
+Added Pin To Net: NetName=GND Pin=U16-J8
+Added Pin To Net: NetName=DDR3_ODT Pin=U16-K1
+Added Pin To Net: NetName=1V5D Pin=U16-K2
+Added Pin To Net: NetName=DDR3_CAS Pin=U16-K3
+Added Pin To Net: NetName=DDR3_CLK0_N Pin=U16-K7
+Added Pin To Net: NetName=1V5D Pin=U16-K8
+Added Pin To Net: NetName=DDR3_CKE0 Pin=U16-K9
+Added Pin To Net: NetName=DDR3_CS Pin=U16-L2
+Added Pin To Net: NetName=DDR3_WE Pin=U16-L3
+Added Pin To Net: NetName=DDR3_A10 Pin=U16-L7
+Added Pin To Net: NetName=NetR41_2 Pin=U16-L8
+Added Pin To Net: NetName=GND Pin=U16-M1
+Added Pin To Net: NetName=DDR3_BA0 Pin=U16-M2
+Added Pin To Net: NetName=DDR3_BA2 Pin=U16-M3
+Added Pin To Net: NetName=DDR3_VREF Pin=U16-M8
+Added Pin To Net: NetName=GND Pin=U16-M9
+Added Pin To Net: NetName=1V5D Pin=U16-N1
+Added Pin To Net: NetName=DDR3_A3 Pin=U16-N2
+Added Pin To Net: NetName=DDR3_A0 Pin=U16-N3
+Added Pin To Net: NetName=DDR3_A12 Pin=U16-N7
+Added Pin To Net: NetName=DDR3_BA1 Pin=U16-N8
+Added Pin To Net: NetName=1V5D Pin=U16-N9
+Added Pin To Net: NetName=GND Pin=U16-P1
+Added Pin To Net: NetName=DDR3_A5 Pin=U16-P2
+Added Pin To Net: NetName=DDR3_A2 Pin=U16-P3
+Added Pin To Net: NetName=DDR3_A1 Pin=U16-P7
+Added Pin To Net: NetName=DDR3_A4 Pin=U16-P8
+Added Pin To Net: NetName=GND Pin=U16-P9
+Added Pin To Net: NetName=1V5D Pin=U16-R1
+Added Pin To Net: NetName=DDR3_A7 Pin=U16-R2
+Added Pin To Net: NetName=DDR3_A9 Pin=U16-R3
+Added Pin To Net: NetName=DDR3_A11 Pin=U16-R7
+Added Pin To Net: NetName=DDR3_A6 Pin=U16-R8
+Added Pin To Net: NetName=1V5D Pin=U16-R9
+Added Pin To Net: NetName=GND Pin=U16-T1
+Added Pin To Net: NetName=DDR3_RESET Pin=U16-T2
+Added Pin To Net: NetName=DDR3_A13 Pin=U16-T3
+Added Pin To Net: NetName=DDR3_A8 Pin=U16-T8
+Added Pin To Net: NetName=GND Pin=U16-T9
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_DDR3 Member=Component C138 CAP - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_DDR3 Member=Component C139 CAP - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_DDR3 Member=Component C140 CAP - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_DDR3 Member=Component C141 CAP - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_DDR3 Member=Component C142 CAP - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_DDR3 Member=Component C143 CAP - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_DDR3 Member=Component C144 CAP - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_DDR3 Member=Component C145 CAP - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_DDR3 Member=Component C146 CAP - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_DDR3 Member=Component C147 CAP - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_DDR3 Member=Component C148 CAP - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_DDR3 Member=Component C149 CAP - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_DDR3 Member=Component C150 CAP - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_DDR3 Member=Component C151 CAP - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_DDR3 Member=Component C152 CAP - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_DDR3 Member=Component C153 CAP - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_DDR3 Member=Component C154 CAP - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_DDR3 Member=Component C157 CAP - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_DDR3 Member=Component C158 CAP - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_DDR3 Member=Component R18 RES - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_DDR3 Member=Component R20 RES - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_DDR3 Member=Component R41 RES - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_DDR3 Member=Component R42 RES - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_DDR3 Member=Component R43 RES - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_DDR3 Member=Component R44 RES - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_DDR3 Member=Component R45 RES - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_DDR3 Member=Component R46 RES - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_DDR3 Member=Component R47 RES - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_DDR3 Member=Component R48 RES - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_DDR3 Member=Component R49 RES - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_DDR3 Member=Component R50 RES - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_DDR3 Member=Component R51 RES - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_DDR3 Member=Component R52 RES - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_DDR3 Member=Component R53 RES - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_DDR3 Member=Component R54 RES - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_DDR3 Member=Component R55 RES - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_DDR3 Member=Component R56 RES - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_DDR3 Member=Component R57 RES - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_DDR3 Member=Component R58 RES - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_DDR3 Member=Component R59 RES - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_DDR3 Member=Component R60 RES - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_DDR3 Member=Component R61 RES - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_DDR3 Member=Component R62 RES - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_DDR3 Member=Component R63 RES - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_DDR3 Member=Component R64 RES - 0402
+Added Member To Class: ClassName=S7CAS-PLEIADES-CARTE-MERE_P06_DDR3 Member=Component U16 MT41J128M16JT-125

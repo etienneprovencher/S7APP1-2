@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: S7CAS-PLEIADES-CARTE-MERE_P06.GBR   2026-03-12  16:00:59
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTO                Top Overlay                             
+.GTP                Top Paste                               
+.GTS                Top Solder                              
+.GTL                Top Layer                               
+.GP1                GND1                                    
+.G1                 SIG1                                    
+.GP2                GND2                                    
+.GP3                PWR1                                    
+.GP4                GND3                                    
+.GP5                PWR2                                    
+.GP6                GND4                                    
+.GP7                GND5                                    
+.GP8                PWR3                                    
+.GP9                GND6                                    
+.G2                 SIG2                                    
+.GP10               GND7                                    
+.GBL                Bottom                                  
+.GBS                Bottom Solder                           
+.GBP                Bottom Paste                            
+.GBO                Bottom Overlay                          
+.GKO                Keep-Out Layer                          
+.GM                 Profile                                 
+------------------------------------------------------------------------------------------
